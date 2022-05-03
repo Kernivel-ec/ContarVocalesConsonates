@@ -32,7 +32,7 @@ public class ContarVocalesConsonates {
             //Obtenemos la cantidad de caracteres de la variable para utilizarlo en el ciclo
             letras = palabra.length();
                 //Ciclo repetitivo inicia en cero hasta la cantidad de caracteres y va de uno en uno
-                //Nota: recordemos que en programacion siempre iniciamos en 0 las posiciones en cadenas, vectore y matrices
+                //Nota: recordemos que en programacion siempre iniciamos en 0 las posiciones en cadenas, vectores y matrices
                 //Nota: tambien prodiamos x <= letras - 1, tomando en cuenta si la palabra tiene 4 caracteres/letras son 3 posiciones 0-1-2-3 
                 for (int x = 0 ; x < letras; x++){
                     //Guardamos en la variable el caracter de la posicion x
