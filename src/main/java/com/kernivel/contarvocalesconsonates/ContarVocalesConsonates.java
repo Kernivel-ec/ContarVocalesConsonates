@@ -29,7 +29,7 @@ public class ContarVocalesConsonates {
             //Tranformamos el texto de la variable a minusculas
             // Nota: Esto lo hacemos para no tenes que comparar 'A' y 'a' ambas son vocales pero se comparan de manera independiente
             palabra = palabra.toLowerCase();
-            //Obtenemos la cantidad de caracteres de la variable para utilñizarlo en el ciclo
+            //Obtenemos la cantidad de caracteres de la variable para utilizarlo en el ciclo
             letras = palabra.length();
                 //Ciclo repetitivo inicia en cero hasta la cantidad de caracteres y va de uno en uno
                 //Nota: recordemos que en programacion siempre iniciamos en 0 las posiciones en cadenas, vectore y matrices
