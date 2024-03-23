@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Ingeniero Roberto Calero
+ * @author ING. Roberto Calero
  */
 public class ContarVocalesConsonates {
 
